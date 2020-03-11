@@ -1,0 +1,9 @@
+com\sentrifugo\myInfo\pageObject\PersonalDetails.class
+com\sentrifugo\myInfo\testCases\BaseClass.class
+com\sentrifugo\myInfo\pageObject\LoginPage.class
+com\sentrifugo\myInfo\utilities\ReadConfig.class
+com\sentrifugo\myInfo\utilities\Reporting.class
+com\sentrifugo\myInfo\testCases\TC_PersonalDetailsTest_003.class
+com\sentrifugo\myInfo\testCases\TC_LoginDDT_002.class
+com\sentrifugo\myInfo\testCases\TC_LoginTest_001.class
+com\sentrifugo\myInfo\utilities\XLUtils.class

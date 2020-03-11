@@ -1,0 +1,627 @@
+2020-03-10 02:30:34,503 [main] INFO SentrifugoV1 - URL launched
+2020-03-10 02:30:36,175 [main] INFO SentrifugoV1 - Entered UserName
+2020-03-10 02:30:36,361 [main] INFO SentrifugoV1 - Entered Password
+2020-03-10 02:30:44,408 [main] INFO SentrifugoV1 - Clicked on Login
+2020-03-10 02:30:44,431 [main] INFO SentrifugoV1 - LoginTest Passed
+2020-03-10 02:56:26,729 [main] INFO SentrifugoV1 - URL launched
+2020-03-10 02:56:28,858 [main] INFO SentrifugoV1 - Entered UserName
+2020-03-10 02:56:29,023 [main] INFO SentrifugoV1 - Entered Password
+2020-03-10 02:56:34,775 [main] INFO SentrifugoV1 - Clicked on Login
+2020-03-10 02:56:34,787 [main] INFO SentrifugoV1 - LoginTest Passed
+2020-03-10 03:21:51,102 [main] INFO SentrifugoV1 - URL launched
+2020-03-10 03:21:56,587 [main] INFO SentrifugoV1 - Entered UserName
+2020-03-10 03:21:56,780 [main] INFO SentrifugoV1 - Entered Password
+2020-03-10 03:22:19,594 [main] INFO SentrifugoV1 - Clicked on Login
+2020-03-10 03:22:19,684 [main] INFO SentrifugoV1 - LoginTest Passed
+2020-03-10 03:23:30,158 [main] INFO SentrifugoV1 - URL launched
+2020-03-10 03:23:31,151 [main] INFO SentrifugoV1 - Entered UserName
+2020-03-10 03:23:31,331 [main] INFO SentrifugoV1 - Entered Password
+2020-03-10 03:23:42,832 [main] INFO SentrifugoV1 - Clicked on Login
+2020-03-10 03:23:42,880 [main] INFO SentrifugoV1 - LoginTest Passed
+2020-03-10 03:47:23,005 [main] INFO SentrifugoV1 - URL launched
+2020-03-10 03:47:25,529 [main] INFO SentrifugoV1 - Entered UserName
+2020-03-10 03:47:25,814 [main] INFO SentrifugoV1 - Entered Password
+2020-03-10 03:47:34,563 [main] INFO SentrifugoV1 - Clicked on Login
+2020-03-10 03:47:34,660 [main] INFO SentrifugoV1 - LoginTest Passed
+2020-03-10 03:57:31,433 [main] INFO SentrifugoV1 - URL launched
+2020-03-10 03:59:34,317 [main] INFO SentrifugoV1 - URL launched
+2020-03-10 03:59:36,172 [main] INFO SentrifugoV1 - Entered UserName
+2020-03-10 03:59:36,303 [main] INFO SentrifugoV1 - Entered Password
+2020-03-10 03:59:49,446 [main] INFO SentrifugoV1 - Clicked on Login
+2020-03-10 03:59:49,561 [main] INFO SentrifugoV1 - LoginTest Passed
+2020-03-10 04:10:01,842 [main] INFO SentrifugoV1 - URL launched
+2020-03-10 04:10:03,075 [main] INFO SentrifugoV1 - Entered UserName
+2020-03-10 04:10:03,200 [main] INFO SentrifugoV1 - Entered Password
+2020-03-10 04:10:06,363 [main] INFO SentrifugoV1 - Clicked on Login
+2020-03-10 19:15:00,831 [main] INFO SentrifugoV1 - URL launched
+2020-03-10 19:19:28,284 [main] INFO SentrifugoV1 - URL launched
+2020-03-10 19:19:31,610 [main] INFO SentrifugoV1 - Entered UserName
+2020-03-10 19:19:31,726 [main] INFO SentrifugoV1 - Entered Password
+2020-03-10 19:20:38,941 [main] INFO SentrifugoV1 - Clicked on Login
+2020-03-10 19:20:40,178 [main] INFO SentrifugoV1 - LoginTest Passed
+2020-03-10 20:03:25,170 [main] INFO SentrifugoV1 - URL launched
+2020-03-10 20:04:21,912 [main] INFO SentrifugoV1 - URL launched
+2020-03-10 20:06:28,475 [main] INFO SentrifugoV1 - URL launched
+2020-03-10 20:15:25,448 [main] INFO SentrifugoV1 - URL launched
+2020-03-10 20:23:14,524 [main] INFO SentrifugoV1 - URL launched
+2020-03-10 20:23:23,290 [main] INFO SentrifugoV1 - Entered username
+2020-03-10 20:23:23,641 [main] INFO SentrifugoV1 - Entered password
+2020-03-10 20:23:28,686 [main] INFO SentrifugoV1 - Click Login Button
+2020-03-10 20:23:28,996 [main] INFO SentrifugoV1 - Select WellCome Admin
+2020-03-10 20:23:31,053 [main] INFO SentrifugoV1 - Click on Logout
+2020-03-10 20:23:53,553 [main] INFO SentrifugoV1 - Entered username
+2020-03-10 20:23:53,752 [main] INFO SentrifugoV1 - Entered password
+2020-03-10 20:23:55,063 [main] INFO SentrifugoV1 - Click Login Button
+2020-03-10 20:23:55,199 [main] INFO SentrifugoV1 - Select WellCome Admin
+2020-03-10 20:23:57,316 [main] INFO SentrifugoV1 - Click on Logout
+2020-03-10 20:25:11,940 [main] INFO SentrifugoV1 - URL launched
+2020-03-10 20:25:23,001 [main] INFO SentrifugoV1 - Entered username
+2020-03-10 20:25:23,173 [main] INFO SentrifugoV1 - Entered password
+2020-03-10 20:25:29,275 [main] INFO SentrifugoV1 - Click Login Button
+2020-03-10 20:25:29,456 [main] INFO SentrifugoV1 - Select WellCome Admin
+2020-03-10 20:25:32,709 [main] INFO SentrifugoV1 - Click on Logout
+2020-03-10 20:25:32,914 [main] INFO SentrifugoV1 - Entered username
+2020-03-10 20:25:33,096 [main] INFO SentrifugoV1 - Entered password
+2020-03-10 20:25:34,094 [main] INFO SentrifugoV1 - Click Login Button
+2020-03-10 20:25:54,935 [main] INFO SentrifugoV1 - Entered username
+2020-03-10 20:25:55,116 [main] INFO SentrifugoV1 - Entered password
+2020-03-10 20:25:56,975 [main] INFO SentrifugoV1 - Click Login Button
+2020-03-10 20:25:57,070 [main] INFO SentrifugoV1 - Select WellCome Admin
+2020-03-10 20:28:03,690 [main] INFO SentrifugoV1 - URL launched
+2020-03-10 20:28:06,942 [main] INFO SentrifugoV1 - Entered username
+2020-03-10 20:28:07,090 [main] INFO SentrifugoV1 - Entered password
+2020-03-10 20:28:12,585 [main] INFO SentrifugoV1 - Click Login Button
+2020-03-10 20:28:12,804 [main] INFO SentrifugoV1 - Select WellCome Admin
+2020-03-10 20:28:16,204 [main] INFO SentrifugoV1 - Click on Logout
+2020-03-10 20:28:16,416 [main] INFO SentrifugoV1 - Entered username
+2020-03-10 20:28:16,585 [main] INFO SentrifugoV1 - Entered password
+2020-03-10 20:28:17,531 [main] INFO SentrifugoV1 - Click Login Button
+2020-03-10 20:28:38,632 [main] INFO SentrifugoV1 - Entered username
+2020-03-10 20:28:38,802 [main] INFO SentrifugoV1 - Entered password
+2020-03-10 20:28:40,633 [main] INFO SentrifugoV1 - Click Login Button
+2020-03-10 20:28:40,744 [main] INFO SentrifugoV1 - Select WellCome Admin
+2020-03-10 20:59:55,401 [main] INFO SentrifugoV1 - URL launched
+2020-03-10 21:00:02,661 [main] INFO SentrifugoV1 - Entered username
+2020-03-10 21:00:02,862 [main] INFO SentrifugoV1 - Entered password
+2020-03-10 21:00:16,875 [main] INFO SentrifugoV1 - Click Login Button
+2020-03-10 21:00:17,023 [main] INFO SentrifugoV1 - LoginTest Passed
+2020-03-10 21:00:17,143 [main] INFO SentrifugoV1 - Select WellCome Admin
+2020-03-10 21:00:18,885 [main] INFO SentrifugoV1 - Click on Logout
+2020-03-10 21:00:19,077 [main] INFO SentrifugoV1 - Entered username
+2020-03-10 21:00:19,261 [main] INFO SentrifugoV1 - Entered password
+2020-03-10 21:00:20,724 [main] INFO SentrifugoV1 - Click Login Button
+2020-03-10 21:00:43,109 [main] INFO SentrifugoV1 - Entered username
+2020-03-10 21:00:43,287 [main] INFO SentrifugoV1 - Entered password
+2020-03-10 21:00:45,213 [main] INFO SentrifugoV1 - Click Login Button
+2020-03-10 21:00:45,251 [main] INFO SentrifugoV1 - LoginTest Passed
+2020-03-10 21:00:45,351 [main] INFO SentrifugoV1 - Select WellCome Admin
+2020-03-10 21:03:30,488 [main] INFO SentrifugoV1 - URL launched
+2020-03-10 21:03:33,043 [main] INFO SentrifugoV1 - Entered username
+2020-03-10 21:03:33,211 [main] INFO SentrifugoV1 - Entered password
+2020-03-10 21:03:38,980 [main] INFO SentrifugoV1 - Click Login Button
+2020-03-10 21:03:39,035 [main] INFO SentrifugoV1 - LoginTest Passed
+2020-03-10 21:03:39,227 [main] INFO SentrifugoV1 - Select WellCome Admin
+2020-03-10 21:03:40,581 [main] INFO SentrifugoV1 - Click on Logout
+2020-03-10 21:03:40,783 [main] INFO SentrifugoV1 - Entered username
+2020-03-10 21:03:40,959 [main] INFO SentrifugoV1 - Entered password
+2020-03-10 21:03:41,935 [main] INFO SentrifugoV1 - Click Login Button
+2020-03-10 21:04:03,256 [main] INFO SentrifugoV1 - Entered username
+2020-03-10 21:04:03,424 [main] INFO SentrifugoV1 - Entered password
+2020-03-10 21:04:05,765 [main] INFO SentrifugoV1 - Click Login Button
+2020-03-10 21:04:05,811 [main] INFO SentrifugoV1 - LoginTest Passed
+2020-03-10 21:04:05,910 [main] INFO SentrifugoV1 - Select WellCome Admin
+2020-03-10 21:22:44,301 [main] INFO SentrifugoV1 - URL launched
+2020-03-10 21:22:49,841 [main] INFO SentrifugoV1 - Entered username
+2020-03-10 21:22:50,220 [main] INFO SentrifugoV1 - Entered password
+2020-03-10 21:22:54,986 [main] INFO SentrifugoV1 - Click Login Button
+2020-03-10 21:22:56,868 [main] INFO SentrifugoV1 - LoginTest Passed
+2020-03-10 21:22:56,993 [main] INFO SentrifugoV1 - Select WellCome Admin
+2020-03-10 21:22:58,230 [main] INFO SentrifugoV1 - Click on Logout
+2020-03-10 21:22:58,496 [main] INFO SentrifugoV1 - Entered username
+2020-03-10 21:22:58,684 [main] INFO SentrifugoV1 - Entered password
+2020-03-10 21:22:59,714 [main] INFO SentrifugoV1 - Click Login Button
+2020-03-10 21:23:20,657 [main] INFO SentrifugoV1 - Entered username
+2020-03-10 21:23:20,830 [main] INFO SentrifugoV1 - Entered password
+2020-03-10 21:23:22,860 [main] INFO SentrifugoV1 - Click Login Button
+2020-03-10 21:23:22,991 [main] INFO SentrifugoV1 - LoginTest Passed
+2020-03-10 21:23:25,083 [main] INFO SentrifugoV1 - Select WellCome Admin
+2020-03-10 21:23:26,290 [main] INFO SentrifugoV1 - Click on Logout
+2020-03-10 21:23:26,502 [main] INFO SentrifugoV1 - Entered username
+2020-03-10 21:23:26,670 [main] INFO SentrifugoV1 - Entered password
+2020-03-10 21:23:27,941 [main] INFO SentrifugoV1 - Click Login Button
+2020-03-10 22:11:32,159 [main] INFO SentrifugoV1 - URL launched
+2020-03-10 22:11:37,217 [main] INFO SentrifugoV1 - Entered username
+2020-03-10 22:11:37,372 [main] INFO SentrifugoV1 - Entered password
+2020-03-10 22:11:46,920 [main] INFO SentrifugoV1 - Click Login Button
+2020-03-10 22:11:47,128 [main] INFO SentrifugoV1 - Successfully Logged in
+2020-03-10 22:11:47,328 [main] INFO SentrifugoV1 - Select WellCome Admin Button
+2020-03-10 22:11:48,929 [main] INFO SentrifugoV1 - Click on Logout
+2020-03-10 22:11:48,929 [main] INFO SentrifugoV1 - LoginTest Passed
+2020-03-10 22:11:49,205 [main] INFO SentrifugoV1 - Entered username
+2020-03-10 22:11:49,403 [main] INFO SentrifugoV1 - Entered password
+2020-03-10 22:11:52,598 [main] INFO SentrifugoV1 - Click Login Button
+2020-03-10 22:12:13,579 [main] INFO SentrifugoV1 - Entered username
+2020-03-10 22:12:13,772 [main] INFO SentrifugoV1 - Entered password
+2020-03-10 22:12:15,781 [main] INFO SentrifugoV1 - Click Login Button
+2020-03-10 22:12:15,833 [main] INFO SentrifugoV1 - Successfully Logged in
+2020-03-10 22:12:15,961 [main] INFO SentrifugoV1 - Select WellCome Admin Button
+2020-03-10 22:12:19,439 [main] INFO SentrifugoV1 - Click on Logout
+2020-03-10 22:12:19,439 [main] INFO SentrifugoV1 - LoginTest Passed
+2020-03-10 22:12:19,637 [main] INFO SentrifugoV1 - Entered username
+2020-03-10 22:12:19,805 [main] INFO SentrifugoV1 - Entered password
+2020-03-10 22:12:20,652 [main] INFO SentrifugoV1 - Click Login Button
+2020-03-10 23:42:30,190 [main] INFO SentrifugoV1 - URL launched
+2020-03-10 23:42:31,222 [main] INFO SentrifugoV1 - Entered username
+2020-03-10 23:42:31,444 [main] INFO SentrifugoV1 - Entered password
+2020-03-10 23:42:39,323 [main] INFO SentrifugoV1 - clicked on login
+2020-03-10 23:50:47,362 [main] INFO SentrifugoV1 - URL launched
+2020-03-10 23:50:49,709 [main] INFO SentrifugoV1 - Entered username
+2020-03-10 23:50:49,884 [main] INFO SentrifugoV1 - Entered password
+2020-03-10 23:50:57,194 [main] INFO SentrifugoV1 - clicked on login
+2020-03-10 23:54:05,213 [main] INFO SentrifugoV1 - URL launched
+2020-03-10 23:54:06,015 [main] INFO SentrifugoV1 - Entered username
+2020-03-10 23:54:06,294 [main] INFO SentrifugoV1 - Entered password
+2020-03-10 23:54:07,837 [main] INFO SentrifugoV1 - clicked on login
+2020-03-10 23:56:05,083 [main] INFO SentrifugoV1 - URL launched
+2020-03-10 23:56:05,742 [main] INFO SentrifugoV1 - Entered username
+2020-03-10 23:56:06,560 [main] INFO SentrifugoV1 - Entered password
+2020-03-10 23:56:10,310 [main] INFO SentrifugoV1 - clicked on login
+2020-03-10 23:56:12,233 [main] INFO SentrifugoV1 - clicked on myInfo link
+2020-03-10 23:56:13,292 [main] INFO SentrifugoV1 - clicked on personal details link
+2020-03-11 00:01:19,622 [main] INFO SentrifugoV1 - URL launched
+2020-03-11 00:01:20,280 [main] INFO SentrifugoV1 - Entered username
+2020-03-11 00:01:20,560 [main] INFO SentrifugoV1 - Entered password
+2020-03-11 00:01:24,678 [main] INFO SentrifugoV1 - clicked on login
+2020-03-11 00:01:27,572 [main] INFO SentrifugoV1 - clicked on myInfo link
+2020-03-11 00:01:30,782 [main] INFO SentrifugoV1 - clicked on personal details link
+2020-03-11 00:08:20,048 [main] INFO SentrifugoV1 - URL launched
+2020-03-11 00:08:21,043 [main] INFO SentrifugoV1 - Entered username
+2020-03-11 00:08:21,337 [main] INFO SentrifugoV1 - Entered password
+2020-03-11 00:08:23,576 [main] INFO SentrifugoV1 - clicked on login
+2020-03-11 00:08:23,723 [main] INFO SentrifugoV1 - clicked on myInfo link
+2020-03-11 00:09:47,617 [main] INFO SentrifugoV1 - URL launched
+2020-03-11 00:09:48,066 [main] INFO SentrifugoV1 - Entered username
+2020-03-11 00:09:48,230 [main] INFO SentrifugoV1 - Entered password
+2020-03-11 00:09:56,617 [main] INFO SentrifugoV1 - clicked on login
+2020-03-11 00:10:00,980 [main] INFO SentrifugoV1 - clicked on myInfo link
+2020-03-11 00:10:03,826 [main] INFO SentrifugoV1 - clicked on personal details link
+2020-03-11 00:14:12,538 [main] INFO SentrifugoV1 - URL launched
+2020-03-11 00:14:15,195 [main] INFO SentrifugoV1 - Entered username
+2020-03-11 00:14:15,365 [main] INFO SentrifugoV1 - Entered password
+2020-03-11 00:14:21,749 [main] INFO SentrifugoV1 - clicked on login
+2020-03-11 00:14:23,155 [main] INFO SentrifugoV1 - clicked on myInfo link
+2020-03-11 00:14:24,451 [main] INFO SentrifugoV1 - clicked on personal details link
+2020-03-11 00:14:25,016 [main] INFO SentrifugoV1 - clicked on edit button
+2020-03-11 00:14:26,071 [main] INFO SentrifugoV1 - Entered first name
+2020-03-11 00:16:58,118 [main] INFO SentrifugoV1 - URL launched
+2020-03-11 00:16:59,551 [main] INFO SentrifugoV1 - Entered username
+2020-03-11 00:16:59,804 [main] INFO SentrifugoV1 - Entered password
+2020-03-11 00:17:07,912 [main] INFO SentrifugoV1 - clicked on login
+2020-03-11 00:17:37,985 [main] INFO SentrifugoV1 - clicked on myInfo link
+2020-03-11 00:17:38,942 [main] INFO SentrifugoV1 - clicked on personal details link
+2020-03-11 00:17:39,538 [main] INFO SentrifugoV1 - clicked on edit button
+2020-03-11 00:17:40,267 [main] INFO SentrifugoV1 - Entered first name
+2020-03-11 00:17:40,504 [main] INFO SentrifugoV1 - Entered middle name
+2020-03-11 00:17:40,806 [main] INFO SentrifugoV1 - Entered last name
+2020-03-11 00:17:41,059 [main] INFO SentrifugoV1 - Entered Pan card
+2020-03-11 00:17:41,433 [main] INFO SentrifugoV1 - click on license Exp date
+2020-03-11 00:17:42,634 [main] INFO SentrifugoV1 - year selected
+2020-03-11 00:17:43,159 [main] INFO SentrifugoV1 - month selected
+2020-03-11 00:17:43,422 [main] INFO SentrifugoV1 - date selected
+2020-03-11 00:17:43,562 [main] INFO SentrifugoV1 - gender selected
+2020-03-11 00:17:43,823 [main] INFO SentrifugoV1 - marital status selected
+2020-03-11 00:20:01,521 [main] INFO SentrifugoV1 - URL launched
+2020-03-11 00:20:01,877 [main] INFO SentrifugoV1 - Entered username
+2020-03-11 00:20:02,061 [main] INFO SentrifugoV1 - Entered password
+2020-03-11 00:20:04,053 [main] INFO SentrifugoV1 - clicked on login
+2020-03-11 00:20:06,668 [main] INFO SentrifugoV1 - clicked on myInfo link
+2020-03-11 00:20:08,759 [main] INFO SentrifugoV1 - clicked on personal details link
+2020-03-11 00:20:08,886 [main] INFO SentrifugoV1 - clicked on edit button
+2020-03-11 00:20:09,256 [main] INFO SentrifugoV1 - Entered first name
+2020-03-11 00:20:09,452 [main] INFO SentrifugoV1 - Entered middle name
+2020-03-11 00:20:10,415 [main] INFO SentrifugoV1 - Entered last name
+2020-03-11 00:20:11,184 [main] INFO SentrifugoV1 - Entered Pan card
+2020-03-11 00:20:12,636 [main] INFO SentrifugoV1 - click on license Exp date
+2020-03-11 00:20:13,731 [main] INFO SentrifugoV1 - year selected
+2020-03-11 00:20:14,457 [main] INFO SentrifugoV1 - month selected
+2020-03-11 00:20:14,777 [main] INFO SentrifugoV1 - date selected
+2020-03-11 00:20:14,896 [main] INFO SentrifugoV1 - gender selected
+2020-03-11 00:20:15,203 [main] INFO SentrifugoV1 - marital status selected
+2020-03-11 00:20:15,655 [main] INFO SentrifugoV1 - nationality selected
+2020-03-11 00:20:17,426 [main] INFO SentrifugoV1 - personal details edited successfully
+2020-03-11 00:26:20,307 [main] INFO SentrifugoV1 - URL launched
+2020-03-11 00:26:21,496 [main] INFO SentrifugoV1 - Entered username
+2020-03-11 00:26:21,770 [main] INFO SentrifugoV1 - Entered password
+2020-03-11 00:26:26,493 [main] INFO SentrifugoV1 - clicked on login
+2020-03-11 00:26:28,382 [main] INFO SentrifugoV1 - clicked on myInfo link
+2020-03-11 00:26:29,463 [main] INFO SentrifugoV1 - clicked on personal details link
+2020-03-11 00:26:29,621 [main] INFO SentrifugoV1 - clicked on edit button
+2020-03-11 00:26:29,967 [main] INFO SentrifugoV1 - Entered first name
+2020-03-11 00:26:30,193 [main] INFO SentrifugoV1 - Entered middle name
+2020-03-11 00:26:30,558 [main] INFO SentrifugoV1 - Entered last name
+2020-03-11 00:26:30,994 [main] INFO SentrifugoV1 - Entered Pan card
+2020-03-11 00:26:31,526 [main] INFO SentrifugoV1 - click on license Exp date
+2020-03-11 00:26:32,400 [main] INFO SentrifugoV1 - year selected
+2020-03-11 00:26:32,764 [main] INFO SentrifugoV1 - month selected
+2020-03-11 00:26:33,032 [main] INFO SentrifugoV1 - date selected
+2020-03-11 00:26:33,214 [main] INFO SentrifugoV1 - gender selected
+2020-03-11 00:26:33,495 [main] INFO SentrifugoV1 - marital status selected
+2020-03-11 00:26:33,816 [main] INFO SentrifugoV1 - nationality selected
+2020-03-11 00:26:33,844 [main] INFO SentrifugoV1 - Scrolled down
+2020-03-11 00:33:26,667 [main] INFO SentrifugoV1 - URL launched
+2020-03-11 00:33:27,141 [main] INFO SentrifugoV1 - Entered username
+2020-03-11 00:33:27,386 [main] INFO SentrifugoV1 - Entered password
+2020-03-11 00:33:29,486 [main] INFO SentrifugoV1 - clicked on login
+2020-03-11 00:35:23,352 [main] INFO SentrifugoV1 - URL launched
+2020-03-11 00:35:24,160 [main] INFO SentrifugoV1 - Entered username
+2020-03-11 00:35:24,577 [main] INFO SentrifugoV1 - Entered password
+2020-03-11 00:35:26,353 [main] INFO SentrifugoV1 - clicked on login
+2020-03-11 00:35:28,170 [main] INFO SentrifugoV1 - clicked on myInfo link
+2020-03-11 00:35:29,361 [main] INFO SentrifugoV1 - clicked on personal details link
+2020-03-11 00:35:29,537 [main] INFO SentrifugoV1 - clicked on edit button
+2020-03-11 00:35:29,868 [main] INFO SentrifugoV1 - Entered first name
+2020-03-11 00:35:30,094 [main] INFO SentrifugoV1 - Entered middle name
+2020-03-11 00:35:30,404 [main] INFO SentrifugoV1 - Entered last name
+2020-03-11 00:35:30,744 [main] INFO SentrifugoV1 - Entered Pan card
+2020-03-11 00:35:31,102 [main] INFO SentrifugoV1 - click on license Exp date
+2020-03-11 00:35:31,795 [main] INFO SentrifugoV1 - year selected
+2020-03-11 00:35:32,305 [main] INFO SentrifugoV1 - month selected
+2020-03-11 00:35:32,622 [main] INFO SentrifugoV1 - date selected
+2020-03-11 00:35:32,907 [main] INFO SentrifugoV1 - gender selected
+2020-03-11 00:35:33,312 [main] INFO SentrifugoV1 - marital status selected
+2020-03-11 00:35:33,803 [main] INFO SentrifugoV1 - nationality selected
+2020-03-11 00:35:33,824 [main] INFO SentrifugoV1 - Scrolled down
+2020-03-11 00:35:33,969 [main] INFO SentrifugoV1 - click on add attachment
+2020-03-11 00:41:28,159 [main] INFO SentrifugoV1 - URL launched
+2020-03-11 00:41:28,877 [main] INFO SentrifugoV1 - Entered username
+2020-03-11 00:41:29,089 [main] INFO SentrifugoV1 - Entered password
+2020-03-11 00:41:36,698 [main] INFO SentrifugoV1 - clicked on login
+2020-03-11 00:41:40,093 [main] INFO SentrifugoV1 - clicked on myInfo link
+2020-03-11 00:41:43,884 [main] INFO SentrifugoV1 - clicked on personal details link
+2020-03-11 00:41:44,009 [main] INFO SentrifugoV1 - clicked on edit button
+2020-03-11 00:41:44,247 [main] INFO SentrifugoV1 - Entered first name
+2020-03-11 00:41:44,408 [main] INFO SentrifugoV1 - Entered middle name
+2020-03-11 00:41:44,616 [main] INFO SentrifugoV1 - Entered last name
+2020-03-11 00:41:44,893 [main] INFO SentrifugoV1 - Entered Pan card
+2020-03-11 00:41:45,185 [main] INFO SentrifugoV1 - click on license Exp date
+2020-03-11 00:41:46,149 [main] INFO SentrifugoV1 - year selected
+2020-03-11 00:41:46,559 [main] INFO SentrifugoV1 - month selected
+2020-03-11 00:41:46,964 [main] INFO SentrifugoV1 - date selected
+2020-03-11 00:41:47,511 [main] INFO SentrifugoV1 - gender selected
+2020-03-11 00:41:47,979 [main] INFO SentrifugoV1 - marital status selected
+2020-03-11 00:41:48,627 [main] INFO SentrifugoV1 - nationality selected
+2020-03-11 00:41:48,643 [main] INFO SentrifugoV1 - Scrolled down
+2020-03-11 00:41:48,792 [main] INFO SentrifugoV1 - click on add attachment
+2020-03-11 00:48:55,962 [main] INFO SentrifugoV1 - URL launched
+2020-03-11 00:48:56,604 [main] INFO SentrifugoV1 - Entered username
+2020-03-11 00:48:56,765 [main] INFO SentrifugoV1 - Entered password
+2020-03-11 00:49:00,456 [main] INFO SentrifugoV1 - clicked on login
+2020-03-11 00:49:02,161 [main] INFO SentrifugoV1 - clicked on myInfo link
+2020-03-11 00:49:03,248 [main] INFO SentrifugoV1 - clicked on personal details link
+2020-03-11 00:49:03,358 [main] INFO SentrifugoV1 - clicked on edit button
+2020-03-11 00:49:03,568 [main] INFO SentrifugoV1 - Entered first name
+2020-03-11 00:49:03,737 [main] INFO SentrifugoV1 - Entered middle name
+2020-03-11 00:49:03,944 [main] INFO SentrifugoV1 - Entered last name
+2020-03-11 00:49:04,148 [main] INFO SentrifugoV1 - Entered Pan card
+2020-03-11 00:49:04,329 [main] INFO SentrifugoV1 - click on license Exp date
+2020-03-11 00:49:04,962 [main] INFO SentrifugoV1 - year selected
+2020-03-11 00:49:05,384 [main] INFO SentrifugoV1 - month selected
+2020-03-11 00:49:05,596 [main] INFO SentrifugoV1 - date selected
+2020-03-11 00:49:05,773 [main] INFO SentrifugoV1 - gender selected
+2020-03-11 00:49:06,074 [main] INFO SentrifugoV1 - marital status selected
+2020-03-11 00:49:06,470 [main] INFO SentrifugoV1 - nationality selected
+2020-03-11 00:49:06,487 [main] INFO SentrifugoV1 - Scrolled down
+2020-03-11 00:49:06,641 [main] INFO SentrifugoV1 - click on add attachment
+2020-03-11 00:50:24,012 [main] INFO SentrifugoV1 - URL launched
+2020-03-11 00:50:24,533 [main] INFO SentrifugoV1 - Entered username
+2020-03-11 00:50:24,842 [main] INFO SentrifugoV1 - Entered password
+2020-03-11 00:50:27,833 [main] INFO SentrifugoV1 - clicked on login
+2020-03-11 00:50:29,345 [main] INFO SentrifugoV1 - clicked on myInfo link
+2020-03-11 00:50:30,785 [main] INFO SentrifugoV1 - clicked on personal details link
+2020-03-11 00:50:30,926 [main] INFO SentrifugoV1 - clicked on edit button
+2020-03-11 00:50:31,268 [main] INFO SentrifugoV1 - Entered first name
+2020-03-11 00:50:31,479 [main] INFO SentrifugoV1 - Entered middle name
+2020-03-11 00:50:31,733 [main] INFO SentrifugoV1 - Entered last name
+2020-03-11 00:50:31,987 [main] INFO SentrifugoV1 - Entered Pan card
+2020-03-11 00:50:32,427 [main] INFO SentrifugoV1 - click on license Exp date
+2020-03-11 00:50:33,175 [main] INFO SentrifugoV1 - year selected
+2020-03-11 00:50:33,616 [main] INFO SentrifugoV1 - month selected
+2020-03-11 00:50:33,842 [main] INFO SentrifugoV1 - date selected
+2020-03-11 00:50:33,997 [main] INFO SentrifugoV1 - gender selected
+2020-03-11 00:50:34,265 [main] INFO SentrifugoV1 - marital status selected
+2020-03-11 00:50:34,858 [main] INFO SentrifugoV1 - nationality selected
+2020-03-11 00:50:34,874 [main] INFO SentrifugoV1 - Scrolled down
+2020-03-11 00:50:35,051 [main] INFO SentrifugoV1 - click on add attachment
+2020-03-11 00:53:05,748 [main] INFO SentrifugoV1 - URL launched
+2020-03-11 00:53:06,719 [main] INFO SentrifugoV1 - Entered username
+2020-03-11 00:53:06,935 [main] INFO SentrifugoV1 - Entered password
+2020-03-11 00:53:09,646 [main] INFO SentrifugoV1 - clicked on login
+2020-03-11 00:53:11,724 [main] INFO SentrifugoV1 - clicked on myInfo link
+2020-03-11 00:53:12,638 [main] INFO SentrifugoV1 - clicked on personal details link
+2020-03-11 00:53:12,923 [main] INFO SentrifugoV1 - clicked on edit button
+2020-03-11 00:53:13,273 [main] INFO SentrifugoV1 - Entered first name
+2020-03-11 00:53:13,508 [main] INFO SentrifugoV1 - Entered middle name
+2020-03-11 00:53:13,823 [main] INFO SentrifugoV1 - Entered last name
+2020-03-11 00:53:14,106 [main] INFO SentrifugoV1 - Entered Pan card
+2020-03-11 00:53:14,337 [main] INFO SentrifugoV1 - click on license Exp date
+2020-03-11 00:53:15,247 [main] INFO SentrifugoV1 - year selected
+2020-03-11 00:53:15,725 [main] INFO SentrifugoV1 - month selected
+2020-03-11 00:53:15,954 [main] INFO SentrifugoV1 - date selected
+2020-03-11 00:53:16,099 [main] INFO SentrifugoV1 - gender selected
+2020-03-11 00:53:16,402 [main] INFO SentrifugoV1 - marital status selected
+2020-03-11 00:53:16,919 [main] INFO SentrifugoV1 - nationality selected
+2020-03-11 00:53:16,939 [main] INFO SentrifugoV1 - Scrolled down
+2020-03-11 00:53:19,086 [main] INFO SentrifugoV1 - click on add attachment
+2020-03-11 00:54:28,230 [main] INFO SentrifugoV1 - URL launched
+2020-03-11 00:54:28,778 [main] INFO SentrifugoV1 - Entered username
+2020-03-11 00:54:29,011 [main] INFO SentrifugoV1 - Entered password
+2020-03-11 00:54:32,455 [main] INFO SentrifugoV1 - clicked on login
+2020-03-11 00:54:34,795 [main] INFO SentrifugoV1 - clicked on myInfo link
+2020-03-11 00:54:35,717 [main] INFO SentrifugoV1 - clicked on personal details link
+2020-03-11 00:54:35,843 [main] INFO SentrifugoV1 - clicked on edit button
+2020-03-11 00:54:36,132 [main] INFO SentrifugoV1 - Entered first name
+2020-03-11 00:54:36,316 [main] INFO SentrifugoV1 - Entered middle name
+2020-03-11 00:54:36,550 [main] INFO SentrifugoV1 - Entered last name
+2020-03-11 00:54:36,814 [main] INFO SentrifugoV1 - Entered Pan card
+2020-03-11 00:54:37,045 [main] INFO SentrifugoV1 - click on license Exp date
+2020-03-11 00:54:37,821 [main] INFO SentrifugoV1 - year selected
+2020-03-11 00:54:38,433 [main] INFO SentrifugoV1 - month selected
+2020-03-11 00:54:38,741 [main] INFO SentrifugoV1 - date selected
+2020-03-11 00:54:38,952 [main] INFO SentrifugoV1 - gender selected
+2020-03-11 00:54:39,200 [main] INFO SentrifugoV1 - marital status selected
+2020-03-11 00:54:39,734 [main] INFO SentrifugoV1 - nationality selected
+2020-03-11 00:54:39,762 [main] INFO SentrifugoV1 - Scrolled down
+2020-03-11 00:54:41,937 [main] INFO SentrifugoV1 - click on add attachment
+2020-03-11 01:00:27,108 [main] INFO SentrifugoV1 - URL launched
+2020-03-11 01:00:29,739 [main] INFO SentrifugoV1 - Entered username
+2020-03-11 01:00:30,738 [main] INFO SentrifugoV1 - Entered password
+2020-03-11 01:00:39,405 [main] INFO SentrifugoV1 - clicked on login
+2020-03-11 01:00:45,384 [main] INFO SentrifugoV1 - clicked on myInfo link
+2020-03-11 01:00:46,695 [main] INFO SentrifugoV1 - clicked on personal details link
+2020-03-11 01:00:47,146 [main] INFO SentrifugoV1 - clicked on edit button
+2020-03-11 01:00:48,906 [main] INFO SentrifugoV1 - Entered first name
+2020-03-11 01:00:49,299 [main] INFO SentrifugoV1 - Entered middle name
+2020-03-11 01:00:49,835 [main] INFO SentrifugoV1 - Entered last name
+2020-03-11 01:00:50,115 [main] INFO SentrifugoV1 - Entered Pan card
+2020-03-11 01:00:50,555 [main] INFO SentrifugoV1 - click on license Exp date
+2020-03-11 01:00:54,447 [main] INFO SentrifugoV1 - year selected
+2020-03-11 01:00:56,117 [main] INFO SentrifugoV1 - month selected
+2020-03-11 01:00:57,079 [main] INFO SentrifugoV1 - date selected
+2020-03-11 01:00:58,347 [main] INFO SentrifugoV1 - gender selected
+2020-03-11 01:00:59,543 [main] INFO SentrifugoV1 - marital status selected
+2020-03-11 01:01:00,888 [main] INFO SentrifugoV1 - nationality selected
+2020-03-11 01:01:01,056 [main] INFO SentrifugoV1 - Scrolled down
+2020-03-11 01:01:01,240 [main] INFO SentrifugoV1 - click on add attachment
+2020-03-11 01:05:36,830 [main] INFO SentrifugoV1 - URL launched
+2020-03-11 01:05:41,321 [main] INFO SentrifugoV1 - Entered username
+2020-03-11 01:06:09,835 [main] INFO SentrifugoV1 - Entered password
+2020-03-11 01:06:14,612 [main] INFO SentrifugoV1 - clicked on login
+2020-03-11 01:06:17,314 [main] INFO SentrifugoV1 - clicked on myInfo link
+2020-03-11 01:06:18,606 [main] INFO SentrifugoV1 - clicked on personal details link
+2020-03-11 01:06:18,799 [main] INFO SentrifugoV1 - clicked on edit button
+2020-03-11 01:06:19,327 [main] INFO SentrifugoV1 - Entered first name
+2020-03-11 01:06:19,571 [main] INFO SentrifugoV1 - Entered middle name
+2020-03-11 01:06:19,911 [main] INFO SentrifugoV1 - Entered last name
+2020-03-11 01:06:20,236 [main] INFO SentrifugoV1 - Entered Pan card
+2020-03-11 01:06:20,632 [main] INFO SentrifugoV1 - click on license Exp date
+2020-03-11 01:06:21,700 [main] INFO SentrifugoV1 - year selected
+2020-03-11 01:06:22,780 [main] INFO SentrifugoV1 - month selected
+2020-03-11 01:06:23,077 [main] INFO SentrifugoV1 - date selected
+2020-03-11 01:06:23,309 [main] INFO SentrifugoV1 - gender selected
+2020-03-11 01:06:23,665 [main] INFO SentrifugoV1 - marital status selected
+2020-03-11 01:06:24,629 [main] INFO SentrifugoV1 - nationality selected
+2020-03-11 01:06:24,659 [main] INFO SentrifugoV1 - Scrolled down
+2020-03-11 01:06:24,963 [main] INFO SentrifugoV1 - click on add attachment
+2020-03-11 01:13:42,071 [main] INFO SentrifugoV1 - URL launched
+2020-03-11 01:13:44,257 [main] INFO SentrifugoV1 - Entered username
+2020-03-11 01:13:44,751 [main] INFO SentrifugoV1 - Entered password
+2020-03-11 01:13:51,609 [main] INFO SentrifugoV1 - clicked on login
+2020-03-11 01:13:53,262 [main] INFO SentrifugoV1 - clicked on myInfo link
+2020-03-11 01:13:54,302 [main] INFO SentrifugoV1 - clicked on personal details link
+2020-03-11 01:13:54,988 [main] INFO SentrifugoV1 - clicked on edit button
+2020-03-11 01:13:56,248 [main] INFO SentrifugoV1 - Entered first name
+2020-03-11 01:13:56,457 [main] INFO SentrifugoV1 - Entered middle name
+2020-03-11 01:13:56,889 [main] INFO SentrifugoV1 - Entered last name
+2020-03-11 01:13:57,345 [main] INFO SentrifugoV1 - Entered Pan card
+2020-03-11 01:13:57,922 [main] INFO SentrifugoV1 - click on license Exp date
+2020-03-11 01:13:59,382 [main] INFO SentrifugoV1 - year selected
+2020-03-11 01:14:00,039 [main] INFO SentrifugoV1 - month selected
+2020-03-11 01:14:00,291 [main] INFO SentrifugoV1 - date selected
+2020-03-11 01:14:00,495 [main] INFO SentrifugoV1 - gender selected
+2020-03-11 01:14:00,771 [main] INFO SentrifugoV1 - marital status selected
+2020-03-11 01:14:01,407 [main] INFO SentrifugoV1 - nationality selected
+2020-03-11 01:14:01,423 [main] INFO SentrifugoV1 - Scrolled down
+2020-03-11 01:14:01,659 [main] INFO SentrifugoV1 - click on add attachment
+2020-03-11 01:18:46,249 [main] INFO SentrifugoV1 - URL launched
+2020-03-11 01:18:47,426 [main] INFO SentrifugoV1 - Entered username
+2020-03-11 01:18:47,637 [main] INFO SentrifugoV1 - Entered password
+2020-03-11 01:18:55,435 [main] INFO SentrifugoV1 - clicked on login
+2020-03-11 01:20:06,439 [main] INFO SentrifugoV1 - clicked on myInfo link
+2020-03-11 01:20:08,192 [main] INFO SentrifugoV1 - clicked on personal details link
+2020-03-11 01:20:09,025 [main] INFO SentrifugoV1 - clicked on edit button
+2020-03-11 01:20:10,405 [main] INFO SentrifugoV1 - Entered first name
+2020-03-11 01:20:10,561 [main] INFO SentrifugoV1 - Entered middle name
+2020-03-11 01:20:10,809 [main] INFO SentrifugoV1 - Entered last name
+2020-03-11 01:20:12,041 [main] INFO SentrifugoV1 - Entered Pan card
+2020-03-11 01:20:13,030 [main] INFO SentrifugoV1 - click on license Exp date
+2020-03-11 01:20:18,003 [main] INFO SentrifugoV1 - year selected
+2020-03-11 01:20:18,644 [main] INFO SentrifugoV1 - month selected
+2020-03-11 01:20:18,840 [main] INFO SentrifugoV1 - date selected
+2020-03-11 01:20:19,424 [main] INFO SentrifugoV1 - gender selected
+2020-03-11 01:20:20,136 [main] INFO SentrifugoV1 - marital status selected
+2020-03-11 01:20:21,304 [main] INFO SentrifugoV1 - nationality selected
+2020-03-11 01:20:21,487 [main] INFO SentrifugoV1 - Scrolled down
+2020-03-11 01:20:21,763 [main] INFO SentrifugoV1 - click on add attachment
+2020-03-11 01:33:24,522 [main] INFO SentrifugoV1 - URL launched
+2020-03-11 01:36:32,495 [main] INFO SentrifugoV1 - URL launched
+2020-03-11 01:36:33,222 [main] INFO SentrifugoV1 - Entered username
+2020-03-11 01:36:33,482 [main] INFO SentrifugoV1 - Entered password
+2020-03-11 01:36:41,901 [main] INFO SentrifugoV1 - clicked on login
+2020-03-11 01:37:24,310 [main] INFO SentrifugoV1 - clicked on myInfo link
+2020-03-11 01:37:27,083 [main] INFO SentrifugoV1 - clicked on personal details link
+2020-03-11 01:37:27,227 [main] INFO SentrifugoV1 - clicked on edit button
+2020-03-11 01:37:27,715 [main] INFO SentrifugoV1 - Entered first name
+2020-03-11 01:37:27,895 [main] INFO SentrifugoV1 - Entered middle name
+2020-03-11 01:37:28,103 [main] INFO SentrifugoV1 - Entered last name
+2020-03-11 01:37:28,310 [main] INFO SentrifugoV1 - Entered Pan card
+2020-03-11 01:37:28,602 [main] INFO SentrifugoV1 - click on license Exp date
+2020-03-11 01:37:29,602 [main] INFO SentrifugoV1 - year selected
+2020-03-11 01:37:29,979 [main] INFO SentrifugoV1 - month selected
+2020-03-11 01:37:30,251 [main] INFO SentrifugoV1 - date selected
+2020-03-11 01:37:30,419 [main] INFO SentrifugoV1 - gender selected
+2020-03-11 01:37:30,631 [main] INFO SentrifugoV1 - marital status selected
+2020-03-11 01:37:31,003 [main] INFO SentrifugoV1 - nationality selected
+2020-03-11 01:37:31,019 [main] INFO SentrifugoV1 - Scrolled down
+2020-03-11 01:37:31,207 [main] INFO SentrifugoV1 - click on add attachment
+2020-03-11 01:37:33,533 [main] INFO SentrifugoV1 - personal details edited successfully
+2020-03-11 01:44:37,121 [main] INFO SentrifugoV1 - URL launched
+2020-03-11 01:44:43,410 [main] INFO SentrifugoV1 - Entered username
+2020-03-11 01:44:43,686 [main] INFO SentrifugoV1 - Entered password
+2020-03-11 01:44:58,398 [main] INFO SentrifugoV1 - clicked on login
+2020-03-11 01:45:00,726 [main] INFO SentrifugoV1 - clicked on myInfo link
+2020-03-11 01:45:02,274 [main] INFO SentrifugoV1 - clicked on personal details link
+2020-03-11 01:45:02,673 [main] INFO SentrifugoV1 - clicked on edit button
+2020-03-11 01:45:04,017 [main] INFO SentrifugoV1 - Entered first name
+2020-03-11 01:45:04,430 [main] INFO SentrifugoV1 - Entered middle name
+2020-03-11 01:45:05,122 [main] INFO SentrifugoV1 - Entered last name
+2020-03-11 01:45:05,457 [main] INFO SentrifugoV1 - Entered Pan card
+2020-03-11 01:45:05,789 [main] INFO SentrifugoV1 - click on license Exp date
+2020-03-11 01:45:07,129 [main] INFO SentrifugoV1 - year selected
+2020-03-11 01:45:08,005 [main] INFO SentrifugoV1 - month selected
+2020-03-11 01:45:08,289 [main] INFO SentrifugoV1 - date selected
+2020-03-11 01:45:08,413 [main] INFO SentrifugoV1 - gender selected
+2020-03-11 01:45:08,657 [main] INFO SentrifugoV1 - marital status selected
+2020-03-11 01:45:09,053 [main] INFO SentrifugoV1 - nationality selected
+2020-03-11 01:45:09,068 [main] INFO SentrifugoV1 - Scrolled down
+2020-03-11 01:45:09,216 [main] INFO SentrifugoV1 - click on add attachment
+2020-03-11 01:45:12,273 [main] INFO SentrifugoV1 - personal details edited successfully
+2020-03-11 01:50:55,495 [main] INFO SentrifugoV1 - URL launched
+2020-03-11 01:50:57,173 [main] INFO SentrifugoV1 - Entered username
+2020-03-11 01:50:57,822 [main] INFO SentrifugoV1 - Entered password
+2020-03-11 01:51:01,383 [main] INFO SentrifugoV1 - clicked on login
+2020-03-11 01:51:04,168 [main] INFO SentrifugoV1 - clicked on myInfo link
+2020-03-11 01:51:05,535 [main] INFO SentrifugoV1 - clicked on personal details link
+2020-03-11 01:51:05,749 [main] INFO SentrifugoV1 - clicked on edit button
+2020-03-11 01:51:06,193 [main] INFO SentrifugoV1 - Entered first name
+2020-03-11 01:51:06,393 [main] INFO SentrifugoV1 - Entered middle name
+2020-03-11 01:51:06,729 [main] INFO SentrifugoV1 - Entered last name
+2020-03-11 01:51:07,029 [main] INFO SentrifugoV1 - Entered Pan card
+2020-03-11 01:51:07,394 [main] INFO SentrifugoV1 - click on license Exp date
+2020-03-11 01:51:08,462 [main] INFO SentrifugoV1 - year selected
+2020-03-11 01:51:08,977 [main] INFO SentrifugoV1 - month selected
+2020-03-11 01:51:09,349 [main] INFO SentrifugoV1 - date selected
+2020-03-11 01:51:09,573 [main] INFO SentrifugoV1 - gender selected
+2020-03-11 01:51:10,257 [main] INFO SentrifugoV1 - marital status selected
+2020-03-11 01:51:10,573 [main] INFO SentrifugoV1 - nationality selected
+2020-03-11 01:51:10,589 [main] INFO SentrifugoV1 - Scrolled down
+2020-03-11 01:51:10,796 [main] INFO SentrifugoV1 - click on add attachment
+2020-03-11 01:51:15,369 [main] INFO SentrifugoV1 - personal details edited successfully
+2020-03-11 02:19:09,760 [main] INFO SentrifugoV1 - URL launched
+2020-03-11 02:19:43,573 [main] INFO SentrifugoV1 - Entered username
+2020-03-11 02:19:43,960 [main] INFO SentrifugoV1 - Entered password
+2020-03-11 02:19:47,808 [main] INFO SentrifugoV1 - clicked on login
+2020-03-11 02:19:52,639 [main] INFO SentrifugoV1 - clicked on myInfo link
+2020-03-11 02:19:55,500 [main] INFO SentrifugoV1 - clicked on personal details link
+2020-03-11 02:19:56,268 [main] INFO SentrifugoV1 - clicked on edit button
+2020-03-11 02:19:58,476 [main] INFO SentrifugoV1 - Entered first name
+2020-03-11 02:19:58,694 [main] INFO SentrifugoV1 - Entered middle name
+2020-03-11 02:19:59,762 [main] INFO SentrifugoV1 - Entered last name
+2020-03-11 02:20:01,292 [main] INFO SentrifugoV1 - Entered Pan card
+2020-03-11 02:20:02,108 [main] INFO SentrifugoV1 - click on license Exp date
+2020-03-11 02:20:03,896 [main] INFO SentrifugoV1 - year selected
+2020-03-11 02:20:06,073 [main] INFO SentrifugoV1 - month selected
+2020-03-11 02:20:06,457 [main] INFO SentrifugoV1 - date selected
+2020-03-11 02:20:06,661 [main] INFO SentrifugoV1 - gender selected
+2020-03-11 02:20:07,589 [main] INFO SentrifugoV1 - marital status selected
+2020-03-11 02:20:09,758 [main] INFO SentrifugoV1 - nationality selected
+2020-03-11 02:20:10,208 [main] INFO SentrifugoV1 - Scrolled down
+2020-03-11 02:20:10,568 [main] INFO SentrifugoV1 - click on add attachment
+2020-03-11 02:20:13,523 [main] INFO SentrifugoV1 - personal details edited successfully
+2020-03-11 02:20:14,177 [main] INFO SentrifugoV1 - personal Details testcase passed
+2020-03-11 02:20:16,292 [main] INFO SentrifugoV1 - verifying success message using ToolTip
+2020-03-11 12:08:23,993 [main] INFO SentrifugoV1 - URL launched
+2020-03-11 12:08:26,600 [main] INFO SentrifugoV1 - Entered username
+2020-03-11 12:08:26,816 [main] INFO SentrifugoV1 - Entered password
+2020-03-11 12:09:19,821 [main] INFO SentrifugoV1 - clicked on login
+2020-03-11 12:21:05,201 [main] INFO SentrifugoV1 - URL launched
+2020-03-11 12:21:07,285 [main] INFO SentrifugoV1 - Entered username
+2020-03-11 12:21:07,470 [main] INFO SentrifugoV1 - Entered password
+2020-03-11 12:21:15,145 [main] INFO SentrifugoV1 - clicked on login
+2020-03-11 12:21:20,288 [main] INFO SentrifugoV1 - clicked on myInfo link
+2020-03-11 12:23:09,927 [main] INFO SentrifugoV1 - URL launched
+2020-03-11 12:23:10,409 [main] INFO SentrifugoV1 - Entered username
+2020-03-11 12:23:10,684 [main] INFO SentrifugoV1 - Entered password
+2020-03-11 12:23:14,418 [main] INFO SentrifugoV1 - clicked on login
+2020-03-11 12:26:00,707 [main] INFO SentrifugoV1 - URL launched
+2020-03-11 12:26:01,228 [main] INFO SentrifugoV1 - Entered username
+2020-03-11 12:26:01,549 [main] INFO SentrifugoV1 - Entered password
+2020-03-11 12:26:10,357 [main] INFO SentrifugoV1 - clicked on login
+2020-03-11 12:26:12,152 [main] INFO SentrifugoV1 - clicked on myInfo link
+2020-03-11 12:26:13,509 [main] INFO SentrifugoV1 - clicked on personal details link
+2020-03-11 12:26:14,091 [main] INFO SentrifugoV1 - clicked on edit button
+2020-03-11 12:26:14,579 [main] INFO SentrifugoV1 - Entered first name
+2020-03-11 12:26:14,792 [main] INFO SentrifugoV1 - Entered middle name
+2020-03-11 12:26:15,129 [main] INFO SentrifugoV1 - Entered last name
+2020-03-11 12:26:15,412 [main] INFO SentrifugoV1 - Entered Pan card
+2020-03-11 12:26:16,370 [main] INFO SentrifugoV1 - click on license Exp date
+2020-03-11 12:26:18,894 [main] INFO SentrifugoV1 - year selected
+2020-03-11 12:26:19,666 [main] INFO SentrifugoV1 - month selected
+2020-03-11 12:26:19,913 [main] INFO SentrifugoV1 - date selected
+2020-03-11 12:26:20,045 [main] INFO SentrifugoV1 - gender selected
+2020-03-11 12:26:20,408 [main] INFO SentrifugoV1 - marital status selected
+2020-03-11 12:26:20,970 [main] INFO SentrifugoV1 - nationality selected
+2020-03-11 12:26:20,986 [main] INFO SentrifugoV1 - Scrolled down
+2020-03-11 12:26:21,148 [main] INFO SentrifugoV1 - click on add attachment
+2020-03-11 12:26:22,763 [main] INFO SentrifugoV1 - personal details edited successfully
+2020-03-11 12:26:22,989 [main] INFO SentrifugoV1 - personal Details testcase passed
+2020-03-11 12:26:23,850 [main] INFO SentrifugoV1 - verifying success message using ToolTip
+2020-03-11 12:41:27,095 [main] INFO SentrifugoV1 - URL launched
+2020-03-11 12:41:27,789 [main] INFO SentrifugoV1 - Entered username
+2020-03-11 12:41:27,969 [main] INFO SentrifugoV1 - Entered password
+2020-03-11 12:41:29,789 [main] INFO SentrifugoV1 - clicked on login
+2020-03-11 12:48:30,190 [main] INFO SentrifugoV1 - URL launched
+2020-03-11 12:48:30,672 [main] INFO SentrifugoV1 - Entered username
+2020-03-11 12:48:30,945 [main] INFO SentrifugoV1 - Entered password
+2020-03-11 12:48:35,549 [main] INFO SentrifugoV1 - clicked on login
+2020-03-11 12:48:37,297 [main] INFO SentrifugoV1 - clicked on myInfo link
+2020-03-11 12:48:38,452 [main] INFO SentrifugoV1 - clicked on personal details link
+2020-03-11 12:48:38,587 [main] INFO SentrifugoV1 - clicked on edit button
+2020-03-11 12:48:38,942 [main] INFO SentrifugoV1 - Entered first name
+2020-03-11 12:48:39,181 [main] INFO SentrifugoV1 - Entered middle name
+2020-03-11 12:48:39,528 [main] INFO SentrifugoV1 - Entered last name
+2020-03-11 12:48:40,008 [main] INFO SentrifugoV1 - Entered Pan card
+2020-03-11 12:48:40,502 [main] INFO SentrifugoV1 - click on license Exp date
+2020-03-11 12:48:41,395 [main] INFO SentrifugoV1 - year selected
+2020-03-11 12:48:41,902 [main] INFO SentrifugoV1 - month selected
+2020-03-11 12:48:42,107 [main] INFO SentrifugoV1 - date selected
+2020-03-11 12:48:42,246 [main] INFO SentrifugoV1 - gender selected
+2020-03-11 12:48:42,495 [main] INFO SentrifugoV1 - marital status selected
+2020-03-11 12:48:42,929 [main] INFO SentrifugoV1 - nationality selected
+2020-03-11 12:48:42,944 [main] INFO SentrifugoV1 - Scrolled down
+2020-03-11 12:48:43,119 [main] INFO SentrifugoV1 - click on add attachment
+2020-03-11 12:48:44,557 [main] INFO SentrifugoV1 - personal details edited successfully
+2020-03-11 12:48:44,881 [main] INFO SentrifugoV1 - personal Details testcase passed
+2020-03-11 12:48:45,979 [main] INFO SentrifugoV1 - verifying success message using ToolTip
+2020-03-11 13:06:10,160 [main] INFO SentrifugoV1 - URL launched
+2020-03-11 13:06:11,324 [main] INFO SentrifugoV1 - Entered username
+2020-03-11 13:06:11,684 [main] INFO SentrifugoV1 - Entered password
+2020-03-11 13:06:14,648 [main] INFO SentrifugoV1 - clicked on login
+2020-03-11 13:06:16,854 [main] INFO SentrifugoV1 - clicked on myInfo link
+2020-03-11 13:06:17,820 [main] INFO SentrifugoV1 - clicked on personal details link
+2020-03-11 13:06:18,361 [main] INFO SentrifugoV1 - clicked on edit button
+2020-03-11 13:06:18,968 [main] INFO SentrifugoV1 - Entered first name
+2020-03-11 13:06:19,322 [main] INFO SentrifugoV1 - Entered middle name
+2020-03-11 13:06:19,689 [main] INFO SentrifugoV1 - Entered last name
+2020-03-11 13:06:19,969 [main] INFO SentrifugoV1 - Entered Pan card
+2020-03-11 13:06:20,370 [main] INFO SentrifugoV1 - click on license Exp date
+2020-03-11 13:06:21,603 [main] INFO SentrifugoV1 - year selected
+2020-03-11 13:06:22,131 [main] INFO SentrifugoV1 - month selected
+2020-03-11 13:06:22,940 [main] INFO SentrifugoV1 - date selected
+2020-03-11 13:06:23,140 [main] INFO SentrifugoV1 - gender selected
+2020-03-11 13:06:23,410 [main] INFO SentrifugoV1 - marital status selected
+2020-03-11 13:06:23,817 [main] INFO SentrifugoV1 - nationality selected
+2020-03-11 13:06:23,853 [main] INFO SentrifugoV1 - Scrolled down
+2020-03-11 13:06:24,074 [main] INFO SentrifugoV1 - click on add attachment
+2020-03-11 13:06:26,358 [main] INFO SentrifugoV1 - personal details edited successfully
+2020-03-11 13:06:26,616 [main] INFO SentrifugoV1 - personal Details testcase passed
+2020-03-11 13:06:28,235 [main] INFO SentrifugoV1 - verifying success message using ToolTip

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [SentrifugoV1]">
+  <listeners>
+    <listener class-name="com.sentrifugo.myInfo.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="SentrifugoV1 App Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.sentrifugo.myInfo.testCases.TC_PersonalDetailsTest_003">
+        <methods>
+          <include name="editPersonalDetails"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.sentrifugo.myInfo.testCases.TC_PersonalDetailsTest_003 -->
+    </classes>
+  </test> <!-- SentrifugoV1 App Test(failed) -->
+</suite> <!-- Failed suite [SentrifugoV1] -->

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="SentrifugoV1">
+<listeners>
+<listener class-name="com.sentrifugo.myInfo.utilities.Reporting"></listener>
+</listeners>
+<test name="SentrifugoV1 App Test">
+<parameter name="browser" value="chrome"/>
+<classes>
+<!--<class name="com.sentrifugo.myInfo.testCases.TC_LoginTest_001"/>-->
+<!--<class name="com.sentrifugo.myInfo.testCases.TC_LoginDDT_002"/>-->
+<class name="com.sentrifugo.myInfo.testCases.TC_PersonalDetailsTest_003"/>
+</classes>
+</test>
+</suite>
